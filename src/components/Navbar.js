@@ -20,6 +20,10 @@ export default function Navbar() {
                     </ul>
                 </div>
             </nav>
+
+            <footer class="blog-footer mx-3" style={{ position: "fixed", bottom: "0", width: "100%" }}>
+                <p>Created by Akash D.</p>
+            </footer>
         </>
     )
 }
